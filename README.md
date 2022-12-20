@@ -51,7 +51,7 @@ Clone the repository and run;
 To execute your program run:
 
 ```
- ./monty <bytecode_file>
+ ./monty test/file
 ```
 
 Available operation codes:
